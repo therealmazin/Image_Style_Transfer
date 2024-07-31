@@ -13,7 +13,7 @@ To run this project, you need to have Python installed along with several librar
     ```bash
     git clone <https://github.com/therealmazin/Image_Style_Transfer>
     ```
-2. 2. Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
