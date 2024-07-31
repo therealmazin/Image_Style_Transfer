@@ -24,7 +24,7 @@ To run this project, you need to have Python installed along with several librar
     ```
 
 ## Example Results
-Here is a examples of the neural style transfer results:
+Here is a example of the neural style transfer results:
 
 ![output](https://github.com/user-attachments/assets/97d65729-34ce-42cc-b202-2e6e8d2fbbb3)
 
